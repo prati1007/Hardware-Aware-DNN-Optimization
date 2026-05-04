@@ -26,5 +26,3 @@ This project focuses on optimizing deep neural networks (CNNs and Vision Transfo
 | Latency      | 120 ms | 45 ms |
 | Memory       | 200 MB | 80 MB |
 | Accuracy     | 92%    | 90%   |
-
-## 📁 Structure
